@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4049954.svg)](https://doi.org/10.5281/zenodo.4049954)
+[![issues](https://img.shields.io/github/issues/Zafiirah13/latent-class-model)](https://github.com/Zafiirah13/latent-class-model/issues)
+[![forks](https://img.shields.io/github/forks/Zafiirah13/latent-class-model](https://github.com/Zafiirah13/latent-class-model/network/members)
+[![stars](https://img.shields.io/github/stars/Zafiirah13/latent-class-model](https://github.com/Zafiirah13/latent-class-model/stargazers)
 # Latent Class Model for labelling astronomical images
 
 In this example we have a table with columns: transientid, volunteer_1... volunteer_10 as seen in the Figure below. 
